@@ -1,12 +1,12 @@
-#Guia Completo do Bootstrap
+# Guia Completo do Bootstrap
 Bootstrap Logo
 
 Bem-vindo ao Guia Completo do Bootstrap! Neste documento, você encontrará todas as informações necessárias para começar a usar o Bootstrap, um dos frameworks de desenvolvimento web mais populares do mundo. O Bootstrap é amplamente utilizado para criar sites e aplicativos responsivos e elegantes.
 
-#O que é o Bootstrap?
+# O que é o Bootstrap?
 O Bootstrap é um framework front-end desenvolvido pelo Twitter, projetado para facilitar a criação de interfaces web modernas e responsivas. Ele fornece uma coleção de estilos CSS pré-definidos, componentes JavaScript e uma grade flexível que auxilia no desenvolvimento rápido e eficiente.
 
-#Características principais
+# Características principais
 Responsividade: O Bootstrap permite criar designs responsivos que se adaptam automaticamente a diferentes tamanhos de tela, proporcionando uma ótima experiência em dispositivos móveis, tablets e desktops.
 
 Grade Flexível: A grade do Bootstrap é um sistema de layout poderoso e flexível baseado em um sistema de 12 colunas. Isso permite que você organize e alinhe facilmente o conteúdo em seu site.
@@ -15,7 +15,7 @@ Componentes Reutilizáveis: O Bootstrap oferece uma ampla variedade de component
 
 JavaScript interativo: O Bootstrap inclui uma série de plugins JavaScript que fornecem funcionalidades avançadas, como carregamento de conteúdo dinâmico, janelas modais, abas, tooltips e muitos outros recursos interativos.
 
-#Como começar
+# Como começar
 Para começar a usar o Bootstrap em seu projeto, siga estas etapas:
 
 Obtenha o Bootstrap: Você pode baixar o Bootstrap diretamente do site oficial (https://getbootstrap.com) ou incluí-lo em seu projeto usando um gerenciador de pacotes, como npm ou Yarn.
