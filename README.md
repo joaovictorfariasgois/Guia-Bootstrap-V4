@@ -1,5 +1,6 @@
+<img style="width:100px; hegth:100px;" src="bootstrap/img/bootstrap-logo.png">
+
 # Guia Completo do Bootstrap
-Bootstrap Logo
 
 Bem-vindo ao Guia Completo do Bootstrap! Neste documento, você encontrará todas as informações necessárias para começar a usar o Bootstrap, um dos frameworks de desenvolvimento web mais populares do mundo. O Bootstrap é amplamente utilizado para criar sites e aplicativos responsivos e elegantes.
 ## Observação
